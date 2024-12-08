@@ -1,1 +1,3 @@
 # SD-PrioridadeThreadsJava
+Este repositório contém um programa em Java feito para explorar o impacto das prioridades em threads. Nele, duas threads foram criadas: uma com alta prioridade, que imprime mensagens em blocos com pausas curtas, e outra com baixa prioridade, que imprime mensagens continuamente.
+Entender threads e prioridades em Java é importante para melhorar o desempenho de sistemas multitarefa, garantindo que tarefas críticas sejam executadas com mais rapidez. Isso ajuda a otimizar o uso de recursos, prevenir problemas de concorrência e criar aplicativos mais rápidos e eficientes. A atividade é uma ótima forma de aplicar esses conceitos, especialmente para quem busca trabalhar com sistemas distribuídos ou em ambientes de alto desempenho.
